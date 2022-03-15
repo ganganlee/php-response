@@ -1,0 +1,19 @@
+{
+    "name": "ganganlee/php-response",
+    "description": "php response",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ganganlee\\PhpResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ganganlee",
+            "email": "ganganlee@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
